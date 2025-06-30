@@ -16,7 +16,7 @@ dependencies:
   cached_network_image_platform_interface: ^4.1.1
   cached_network_image_web:
     git:
-      url: github.com/logicute/flutter_cached_network_image.git
+      url: https://github.com/logicute/flutter_cached_network_image.git
       ref: develop
       path: cached_network_image_web
   flutter:
